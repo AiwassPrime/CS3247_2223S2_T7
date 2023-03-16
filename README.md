@@ -14,3 +14,10 @@
 ## Deverloper rules
 1. Please create "Pull requests" instead of commit to `main` directly.
 2. Please keep some folder stuctures instead of put everything under `ROOT`.
+
+## How to build map 
+1. Download Content files from google drive
+
+[- https://drive.google.com/file/d/17omIoW8OdRe2xuBhUgrzKWERakVLbeFZ/view?usp=sharing](https://drive.google.com/file/d/1l5VgREJKMX29DbEgV9rspaqG80Q5A9RB/view?usp=sharing)
+
+2. Put the folders like **Content/Megascans**
