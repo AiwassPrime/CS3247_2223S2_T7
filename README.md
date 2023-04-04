@@ -11,6 +11,8 @@
 - ParagonSevarog
 - AfricanAnimalsPack
 - AnimalVarietyPack
+- FXVarietyPack
+- SoundPhenomenonFantasy
 ## Deverloper rules
 1. Please create "Pull requests" instead of commit to `main` directly.
 2. Please keep some folder stuctures instead of put everything under `ROOT`.
